@@ -1,0 +1,32 @@
+.wrapper {
+  margin: 0 auto 50px;
+  border-bottom: 2px solid;
+}
+
+.UserInfo {
+  margin: 0 auto 30px;
+  width: 140px;
+  height: 190px;
+  border: 3px solid;
+  border-radius: 10px;
+  background-color: #ff7f50;
+}
+
+.UserInfo-name {
+  font-size: 30px;
+}
+
+.UserInfo img {
+  width: 130px;
+  height: 130px;
+}
+
+.Comment-text,
+.Comment-date {
+  margin: 0 auto;
+  width: 140px;
+  height: 80px;
+  box-shadow: 3px 3px 0 0;
+  background-color: #ff7f50;
+  font-size: 19px;
+}
